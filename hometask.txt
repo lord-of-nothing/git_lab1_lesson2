@@ -1,3 +1,21 @@
 Если я всё сделала правильно -- файлы human.txt в локальной master
 и удалённой demo идентичны.
 Различается только история коммитов.
+
+---
+В удалённом репозитории вижу 11 коммитов (не считая последнего, которым
+я загружаю на гитхаб этот текст).
+Снизу вверх:
+    Не мои:
+    - init
+    - heat added
+    - boots
+    - README added
+    - dots
+    - fix readme
+    Мои:
+    - Merge remote-tracking branch 'origin/boots' into boots_buttons
+    - Merge remote-tracking branch 'origin/buttons' into boots_buttons
+    - Merge remote-tracking branch 'origin/hat'
+    - Merge branch 'boots_buttons'
+    - Добавлен hometask.txt из п.2
